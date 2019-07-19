@@ -17,6 +17,8 @@ dist/*.node
 dist/*.md
 dist/LICENSE
 dist/*.js
+build/*
+*.node
 
 # Miscellaneous
 .tmp/

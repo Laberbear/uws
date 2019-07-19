@@ -3,14 +3,14 @@
 		{
 			'target_name': 'uws',
 			'sources': [
-				'src/Extensions.cpp',
-				'src/Group.cpp',
-				'src/Networking.cpp',
-				'src/Hub.cpp',
-				'src/Node.cpp',
-				'src/WebSocket.cpp',
-				'src/HTTPSocket.cpp',
-				'src/Socket.cpp',
+				'uWebSockets/src/Extensions.cpp',
+				'uWebSockets/src/Group.cpp',
+				'uWebSockets/src/Networking.cpp',
+				'uWebSockets/src/Hub.cpp',
+				'uWebSockets/src/Node.cpp',
+				'uWebSockets/src/WebSocket.cpp',
+				'uWebSockets/src/HTTPSocket.cpp',
+				'uWebSockets/src/Socket.cpp',
 				'src/addon.cpp'
 			],
 			'conditions': [
